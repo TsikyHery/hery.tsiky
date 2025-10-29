@@ -17,8 +17,6 @@ Je mets à profit mes compétences en SIG (QGIS, ArcGIS, Google Earth Engine), s
 
 🤝 Logistique et coordination de terrain : planification, animation d’équipes, reporting pour les missions Boeny, Bongolava, Itasy.
 
-🌍 Collaboration avec divers partenaires (WWF, FID, ICARDA, projets financés par la Banque mondiale).
-
 🧩 Compétences techniques
 Domaine	Compétences principales
 🌱 Agronomie & Développement rural	Diagnostic participatif, gestion de l’eau, formation agricole, approche SHEP
@@ -42,6 +40,5 @@ Je cherche à collaborer avec des institutions ou projets promouvant une agricul
 📫 Me contacter
 
 📍 Madagascar
-📧 [ton.email@exemple.com
-]
-💼 [LinkedIn ou Portfolio à ajouter]
+📧 herytsikyrabb@gmail.com
+💼 Hery Tsiky RABEARIMBELO

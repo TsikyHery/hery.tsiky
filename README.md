@@ -5,13 +5,13 @@
 Passionné par le développement rural durable et l’innovation technologique, j’œuvre à relier le terrain agricole et les données pour appuyer des décisions éclairées.
 Mon approche repose sur la rigueur technique, la participation communautaire et l’analyse spatiale pour améliorer la productivité et la résilience des communautés rurales à Madagascar.
 
-Je mets à profit mes compétences en SIG (QGIS, ArcGIS, Google Earth Engine), suivi-évaluation et gestion de projets pour appuyer les programmes de développement, les ONG et les institutions partenaires.
+Je mets à profit mes compétences en SIG (QGIS, ArcGIS Desktop, Google Earth Engine), suivi-évaluation et gestion de projets pour appuyer les programmes de développement, les ONG et les institutions partenaires.
 
 💼 Expériences clés
 
 🗺️ Consultant en suivi des sites modèles : coordination du plan d’action, suivi et rédaction de manuels techniques pour cinq sites pilotes.
 
-🌾 Formation et accompagnement SHEP : encadrement des producteurs sur la rentabilité de la riziculture et la gestion de l’eau à Ambatondrazaka (Alaotra Mangoro).
+🌾 Formation et accompagnement SHEP : encadrement des producteurs sur la rentabilité de la prodution agricole
 
 📊 Appui au suivi-évaluation : collecte, traitement et visualisation de données avec des outils numériques et SIG (QGIS, KoboToolbox, Excel).
 
